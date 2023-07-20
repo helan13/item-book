@@ -2,6 +2,6 @@
 
 * [首页](README.md)
 
-## Group 1
+## 主要组
 
-* [Page 1](group-1/page-1.md)
+* [帮助页一](zhu-yao-zu/bang-zhu-ye-yi.md)
